@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(53, 49, 49);
+} 
+
+h1 {
+    color: white;
+    text-align: center;
+} 
+
+.primeiro {
+    margin-left: 500px;
+}
+
+.terceiro {
+    margin-left: 500px;
+} 
+
+img {
+    margin-top: 100px;
+}
+
+pre {
+    padding: 0;
+    margin-left: 900px;
+}
+
+p {
+    font-size: 25px;
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+}
